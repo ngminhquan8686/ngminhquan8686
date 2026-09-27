@@ -45,29 +45,23 @@ I am a dynamic and driven freshman majoring in **Data Science and Artificial Int
 
 ## 🚀 Featured Projects
 
-*   **[Project Name 1]**: A Python-based application utilizing Pygame for [brief description of what it does]. Implemented rigorous unit testing using Pytest.
-*   **[Project Name 2]**: Automated document generation tool leveraging the FPDF2 library in Python to streamline [specific task].
-*   **Student CV Platform**: Designed and deployed a personal portfolio/CV website using WordPress Site Editor, hosted on Google Firebase with a custom domain.
+*(Projects will be updated soon)*
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngminhquan8686&show_icons=true&theme=radium&hide_border=true" alt="Minh Quan's GitHub Stats" />
-</div>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ngminhquan8686&theme=radium&hide_border=true" alt="Minh Quan's GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngminhquan8686&theme=radium&hide_border=true" alt="Minh Quan's GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngminhquan8686&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
+</p>
 
 ---
 <p align="center">
