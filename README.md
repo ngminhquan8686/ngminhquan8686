@@ -61,6 +61,4 @@ I am a dynamic and driven freshman majoring in **Data Science and Artificial Int
 </p>
 
 ---
-<p align="center">
-  <i>"Committed to continuous learning and building scalable solutions."</i>
-</p>
+
