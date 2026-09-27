@@ -51,9 +51,6 @@ I am a dynamic and driven freshman majoring in **Data Science and Artificial Int
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngminhquan8686&show_icons=true&theme=radium&hide_border=true" alt="Minh Quan's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ngminhquan8686&theme=radium&hide_border=true" alt="Minh Quan's GitHub Streak" />
