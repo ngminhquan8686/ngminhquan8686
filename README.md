@@ -56,9 +56,8 @@ I am a dynamic and driven freshman majoring in **Data Science and Artificial Int
   <img src="https://streak-stats.demolab.com/?user=ngminhquan8686&theme=radium&hide_border=true" alt="Minh Quan's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngminhquan8686&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
-
+<p align="center">
+  <i>"Committed to continuous learning and building scalable solutions."</i>
+</p>
